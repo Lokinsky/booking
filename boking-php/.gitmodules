@@ -1,0 +1,6 @@
+[submodule "resources/js/admin-app"]
+	path = resources/js/admin-app
+	url = https://github.com/Lokinsky/booking.git
+[submodule "resources/js/booking-app"]
+	path = resources/js/booking-app
+	url = https://github.com/Lokinsky/booking.git
